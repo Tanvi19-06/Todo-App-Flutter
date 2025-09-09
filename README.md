@@ -9,10 +9,7 @@ A simple and interactive ToDo application to help users manage daily tasks effic
 - Persistent storage (local storage / database)
 - Responsive design for mobile and desktop
 
-## Screenshots
-![Login Screen]("loginpage_todo.png")
-![Home Screen]("homepage_todo.png")
-![Add Task]("todolist.png")
+
 
 ## Installation
 1. Clone the repository:
