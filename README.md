@@ -10,9 +10,9 @@ A simple and interactive ToDo application to help users manage daily tasks effic
 - Responsive design for mobile and desktop
 
 ## Screenshots
-![Login Screen]("C:\Users\Tanvi\Downloads\loginpage_todo.png")
-![Home Screen]("C:\Users\Tanvi\Downloads\homepage_todo.png")
-![Add Task]("C:\Users\Tanvi\Downloads\todolist.png")
+![Login Screen]("loginpage_todo.png")
+![Home Screen]("homepage_todo.png")
+![Add Task]("todolist.png")
 
 ## Installation
 1. Clone the repository:
